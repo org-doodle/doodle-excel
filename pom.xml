@@ -14,8 +14,10 @@
   <packaging>pom</packaging>
   <modules>
     <module>doodle-excel-bom</module>
+    <module>doodle-excel-client</module>
     <module>doodle-excel-server</module>
     <module>doodle-excel-server-core</module>
+    <module>doodle-starter-excel-client</module>
     <module>doodle-starter-excel-server</module>
   </modules>
 </project>

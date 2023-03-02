@@ -41,7 +41,17 @@
       </dependency>
       <dependency>
         <groupId>org.doodle</groupId>
+        <artifactId>doodle-excel-client</artifactId>
+        <version>${project.version}</version>
+      </dependency>
+      <dependency>
+        <groupId>org.doodle</groupId>
         <artifactId>doodle-excel-server-core</artifactId>
+        <version>${project.version}</version>
+      </dependency>
+      <dependency>
+        <groupId>org.doodle</groupId>
+        <artifactId>doodle-starter-excel-client</artifactId>
         <version>${project.version}</version>
       </dependency>
       <dependency>
